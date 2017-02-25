@@ -1,2 +1,2 @@
 # videofeed
-shows a feed of videos from different platform
+shows a feed of videos from different platforms
